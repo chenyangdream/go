@@ -17,4 +17,5 @@ func main() {
 	fmt.Println(i, j, c, python, java)
 	fmt.Printf(stringutil.Reverse("Hello, world.\n"))
 	printPi()
+	printPi()
 }
