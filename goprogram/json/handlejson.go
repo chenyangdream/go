@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"encoding/json"
+	"fmt"
 )
 
 type Book struct {
@@ -68,6 +68,4 @@ func main() {
 			}
 		}
 	}
-
-
 }
